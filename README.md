@@ -11,7 +11,7 @@ French - PDF
 
 ## The Symbolical Language of Ancient Art and Mythology: An Inquiry.
 
-English - Plain Text  
+[English - Plain Text](symbolical-language-art-mythology/full-text-english.md)  
 English - PDF | Biolinum | Atkinson | Cursive | Auriocus | Kerkis | Artemisia  
 French - Plain Text  
 French - PDF  
